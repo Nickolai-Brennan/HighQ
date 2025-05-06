@@ -15,7 +15,11 @@
 | 🧘 Mental Wellness   | Crisis / Low / Stable / Good / Great | Feeling right now? → _______________ |
 | 🏃 Physical Wellness | ☐ 0–10              | Sleep? Pain? Movement? → _________________ |
 | 🌧️ Depression Scale | ☐ 0–10 *(10 = severe)* | What's weighing on me? → ________________ |
-| ❤️ Self-Worth Scale | ☐ 0–10 *(10 = strong)* | How do I feel about myself today? → _______ |
+| 🧘 Passion For Life | ☐ 0–10 *(10 = strong)* | How do I feel about myself today? → _______ |
+| ❤️ Romance Score | ☐ 0–10 *(10 = strong)* | How do I feel about myself today? → _______ |
+| 🔋 Spiritual Score | ☐ 0–10 *(10 = strong)* | How do I feel about myself today? → _______ |
+| 🧠 Self-Worth Score | ☐ 0–10 *(10 = strong)* | How do I feel about myself today? → _______ |
+
 
 ## 📌 Wellness Habit Markers
 - [ ] Real food (not just caffeine)
